@@ -2,6 +2,7 @@
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 I worked on an exciting project with Codebasics, where I analyzed a dataset provided by AtliQ Hardware to extract valuable insights regarding sales, market trends, customer behavior, and supply chain forecasting.
+
 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭:
 The company faced performance issues due to the increased size of Excel files. A data analyst team was formed to utilize MySQL for gaining valuable insights.
 
